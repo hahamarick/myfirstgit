@@ -1,2 +1,0 @@
-# myfirstgit
-It's test!!
